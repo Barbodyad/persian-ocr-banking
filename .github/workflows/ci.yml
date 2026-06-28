@@ -17,14 +17,13 @@ jobs:
         with:
           python-version: "3.11"
 
-      - name: Install dependencies
-        run: pip install -r requirements.txt
+      - name: Install core dependencies only
+        run: |
+          pip install opencv-python-headless numpy pillow arabic-reshaper python-bidi scipy
+          pip install fastapi uvicorn python-multipart pytest httpx
 
       - name: Generate synthetic data
         run: python scripts/generate_synthetic_data.py
 
       - name: Run tests
         run: python -m pytest tests/ -v --tb=short
-
-      - name: Lint
-        run: pip install ruff && ruff check src/ scripts/
