@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+.env
+
+# Data — do not commit raw scans
+data/raw/
+data/processed/
+data/synthetic/*.png
+
+# Models
+*.pt
+*.onnx
+*.bin
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

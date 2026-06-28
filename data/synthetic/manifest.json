@@ -1,0 +1,562 @@
+[
+  {
+    "id": 0,
+    "file": "cheque_0000_clean.png",
+    "degraded": false,
+    "fields": {
+      "date": "۱۴۰۲/۰۴/۱۴",
+      "amount_numeric": "۱۰۱۸۶۶۶۲۶",
+      "amount_words": "صد و یک میلیون و هشتصد و شصت و شش هزار و ششصد و بیست و شش ریال",
+      "account": "791-72-707000-9",
+      "payee": "محمد محمدی",
+      "cheque_no": "۸۸۹۲۳۳",
+      "bank": "بانک پارسیان"
+    }
+  },
+  {
+    "id": 20,
+    "file": "cheque_0020_degraded.png",
+    "degraded": true,
+    "fields": {
+      "date": "۱۴۰۳/۰۳/۰۲",
+      "amount_numeric": "۳۷۷۴۲۸۸۸",
+      "amount_words": "سی و هفت میلیون و هفتصد و چهل و دو هزار و هشتصد و هشتاد و هشت ریال",
+      "account": "849-24-181482-1",
+      "payee": "رضا حسینی",
+      "cheque_no": "۴۱۳۱۶۰",
+      "bank": "بانک ملی"
+    }
+  },
+  {
+    "id": 1,
+    "file": "cheque_0001_clean.png",
+    "degraded": false,
+    "fields": {
+      "date": "۱۴۰۱/۰۷/۱۳",
+      "amount_numeric": "۴۱۶۳۶۶۶۲",
+      "amount_words": "چهل و یک میلیون و ششصد و سی و شش هزار و ششصد و شصت و دو ریال",
+      "account": "944-93-447565-7",
+      "payee": "رضا موسوی",
+      "cheque_no": "۲۳۵۲۷۰",
+      "bank": "بانک ملی"
+    }
+  },
+  {
+    "id": 21,
+    "file": "cheque_0021_degraded.png",
+    "degraded": true,
+    "fields": {
+      "date": "۱۴۰۲/۰۱/۰۸",
+      "amount_numeric": "۴۰۵۲۱۰۳۳",
+      "amount_words": "چهل میلیون و پانصد و بیست و یک هزار و سی و سه ریال",
+      "account": "105-81-877895-8",
+      "payee": "رضا کریمی",
+      "cheque_no": "۱۷۸۵۹۲",
+      "bank": "بانک صادرات"
+    }
+  },
+  {
+    "id": 2,
+    "file": "cheque_0002_clean.png",
+    "degraded": false,
+    "fields": {
+      "date": "۱۴۰۲/۱۰/۲۰",
+      "amount_numeric": "۱۱۰۴۴۳۸۳۳۱",
+      "amount_words": "یک میلیارد و صد و چهار میلیون و چهارصد و سی و هشت هزار و سیصد و سی و یک ریال",
+      "account": "846-54-305242-3",
+      "payee": "محمد محمدی",
+      "cheque_no": "۵۸۴۶۹۴",
+      "bank": "بانک ملی"
+    }
+  },
+  {
+    "id": 22,
+    "file": "cheque_0022_degraded.png",
+    "degraded": true,
+    "fields": {
+      "date": "۱۴۰۳/۰۲/۲۲",
+      "amount_numeric": "۴۴۹۹۴۵۰۲۵۶",
+      "amount_words": "چهار میلیارد و چهارصد و نود و نه میلیون و چهارصد و پنجاه هزار و دویست و پنجاه و شش ریال",
+      "account": "977-69-844759-6",
+      "payee": "علی حسینی",
+      "cheque_no": "۵۹۴۷۷۹",
+      "bank": "بانک آینده"
+    }
+  },
+  {
+    "id": 3,
+    "file": "cheque_0003_clean.png",
+    "degraded": false,
+    "fields": {
+      "date": "۱۴۰۱/۰۲/۰۱",
+      "amount_numeric": "۲۶۶۰۸۳۱۵۲",
+      "amount_words": "دویست و شصت و شش میلیون و هشتاد و سه هزار و صد و پنجاه و دو ریال",
+      "account": "151-50-556486-5",
+      "payee": "محمد رضایی",
+      "cheque_no": "۹۸۱۲۳۲",
+      "bank": "بانک آینده"
+    }
+  },
+  {
+    "id": 23,
+    "file": "cheque_0023_degraded.png",
+    "degraded": true,
+    "fields": {
+      "date": "۱۴۰۲/۱۰/۰۷",
+      "amount_numeric": "۱۷۸۱۷۳۴۶",
+      "amount_words": "هفده میلیون و هشتصد و هفده هزار و سیصد و چهل و شش ریال",
+      "account": "160-94-655656-5",
+      "payee": "حسین حسینی",
+      "cheque_no": "۲۹۹۷۳۶",
+      "bank": "بانک ملت"
+    }
+  },
+  {
+    "id": 4,
+    "file": "cheque_0004_clean.png",
+    "degraded": false,
+    "fields": {
+      "date": "۱۴۰۱/۰۶/۰۸",
+      "amount_numeric": "۲۴۳۲۷۵۴۱۹",
+      "amount_words": "دویست و چهل و سه میلیون و دویست و هفتاد و پنج هزار و چهارصد و نوزده ریال",
+      "account": "785-38-485718-4",
+      "payee": "رضا رضایی",
+      "cheque_no": "۵۴۴۶۷۲",
+      "bank": "بانک ملت"
+    }
+  },
+  {
+    "id": 24,
+    "file": "cheque_0024_degraded.png",
+    "degraded": true,
+    "fields": {
+      "date": "۱۴۰۱/۰۹/۲۳",
+      "amount_numeric": "۸۵۲۸۲۸۹۸۹",
+      "amount_words": "هشتصد و پنجاه و دو میلیون و هشتصد و بیست و هشت هزار و نهصد و هشتاد و نه ریال",
+      "account": "352-38-757224-4",
+      "payee": "حسین موسوی",
+      "cheque_no": "۲۰۷۳۳۸",
+      "bank": "بانک صادرات"
+    }
+  },
+  {
+    "id": 5,
+    "file": "cheque_0005_clean.png",
+    "degraded": false,
+    "fields": {
+      "date": "۱۴۰۲/۰۹/۱۸",
+      "amount_numeric": "۴۷۶۴۸۱۱۸۰۳",
+      "amount_words": "چهار میلیارد و هفتصد و شصت و چهار میلیون و هشتصد و یازده هزار و هشتصد و سه ریال",
+      "account": "510-86-650174-3",
+      "payee": "فاطمه رضایی",
+      "cheque_no": "۹۸۸۲۸۳",
+      "bank": "بانک صادرات"
+    }
+  },
+  {
+    "id": 25,
+    "file": "cheque_0025_degraded.png",
+    "degraded": true,
+    "fields": {
+      "date": "۱۴۰۰/۰۷/۰۹",
+      "amount_numeric": "۲۸۷۰۴۱۱۵۴۹",
+      "amount_words": "دو میلیارد و هشتصد و هفتاد میلیون و چهارصد و یازده هزار و پانصد و چهل و نه ریال",
+      "account": "959-34-908758-1",
+      "payee": "حسین موسوی",
+      "cheque_no": "۶۷۱۹۳۸",
+      "bank": "بانک ملی"
+    }
+  },
+  {
+    "id": 6,
+    "file": "cheque_0006_clean.png",
+    "degraded": false,
+    "fields": {
+      "date": "۱۴۰۰/۱۲/۱۹",
+      "amount_numeric": "۴۹۳۲۴۴۹۵",
+      "amount_words": "چهل و نه میلیون و سیصد و بیست و چهار هزار و چهارصد و نود و پنج ریال",
+      "account": "888-24-951275-9",
+      "payee": "محمد کریمی",
+      "cheque_no": "۲۹۹۱۶۱",
+      "bank": "بانک ملت"
+    }
+  },
+  {
+    "id": 26,
+    "file": "cheque_0026_degraded.png",
+    "degraded": true,
+    "fields": {
+      "date": "۱۴۰۱/۰۳/۰۹",
+      "amount_numeric": "۴۸۳۳۰۹۰۵",
+      "amount_words": "چهل و هشت میلیون و سیصد و سی هزار و نهصد و پنج ریال",
+      "account": "741-52-238924-8",
+      "payee": "محمد محمدی",
+      "cheque_no": "۶۹۴۶۹۷",
+      "bank": "بانک آینده"
+    }
+  },
+  {
+    "id": 7,
+    "file": "cheque_0007_clean.png",
+    "degraded": false,
+    "fields": {
+      "date": "۱۴۰۲/۰۴/۰۵",
+      "amount_numeric": "۱۷۶۳۳۴۹۰",
+      "amount_words": "هفده میلیون و ششصد و سی و سه هزار و چهارصد و نود ریال",
+      "account": "131-26-873335-3",
+      "payee": "فاطمه کریمی",
+      "cheque_no": "۶۰۸۸۲۴",
+      "bank": "بانک آینده"
+    }
+  },
+  {
+    "id": 27,
+    "file": "cheque_0027_degraded.png",
+    "degraded": true,
+    "fields": {
+      "date": "۱۴۰۳/۱۰/۰۹",
+      "amount_numeric": "۱۴۴۵۸۱۷۸۰۴",
+      "amount_words": "یک میلیارد و چهارصد و چهل و پنج میلیون و هشتصد و هفده هزار و هشتصد و چهار ریال",
+      "account": "416-89-539007-6",
+      "payee": "سارا رضایی",
+      "cheque_no": "۸۱۵۱۱۱",
+      "bank": "بانک ملی"
+    }
+  },
+  {
+    "id": 8,
+    "file": "cheque_0008_clean.png",
+    "degraded": false,
+    "fields": {
+      "date": "۱۴۰۱/۱۱/۱۱",
+      "amount_numeric": "۴۷۷۴۱۲۳۸۵",
+      "amount_words": "چهارصد و هفتاد و هفت میلیون و چهارصد و دوازده هزار و سیصد و هشتاد و پنج ریال",
+      "account": "640-55-259129-3",
+      "payee": "زینب موسوی",
+      "cheque_no": "۸۲۰۸۴۹",
+      "bank": "بانک ملی"
+    }
+  },
+  {
+    "id": 28,
+    "file": "cheque_0028_degraded.png",
+    "degraded": true,
+    "fields": {
+      "date": "۱۴۰۰/۰۴/۰۵",
+      "amount_numeric": "۱۰۶۴۱۳۹۷",
+      "amount_words": "ده میلیون و ششصد و چهل و یک هزار و سیصد و نود و هفت ریال",
+      "account": "982-64-590982-6",
+      "payee": "فاطمه رضایی",
+      "cheque_no": "۹۴۴۱۵۹",
+      "bank": "بانک صادرات"
+    }
+  },
+  {
+    "id": 9,
+    "file": "cheque_0009_clean.png",
+    "degraded": false,
+    "fields": {
+      "date": "۱۴۰۳/۰۳/۲۴",
+      "amount_numeric": "۱۳۰۳۱۴۶۰۸۳",
+      "amount_words": "یک میلیارد و سیصد و سه میلیون و صد و چهل و شش هزار و هشتاد و سه ریال",
+      "account": "977-75-424979-7",
+      "payee": "رضا کریمی",
+      "cheque_no": "۳۲۷۱۱۲",
+      "bank": "بانک ملت"
+    }
+  },
+  {
+    "id": 29,
+    "file": "cheque_0029_degraded.png",
+    "degraded": true,
+    "fields": {
+      "date": "۱۴۰۳/۰۴/۱۵",
+      "amount_numeric": "۲۳۲۱۱۸۲۲۹۸",
+      "amount_words": "دو میلیارد و سیصد و بیست و یک میلیون و صد و هشتاد و دو هزار و دویست و نود و هشت ریال",
+      "account": "398-61-427289-2",
+      "payee": "فاطمه حسینی",
+      "cheque_no": "۲۸۹۳۸۱",
+      "bank": "بانک ملی"
+    }
+  },
+  {
+    "id": 10,
+    "file": "cheque_0010_clean.png",
+    "degraded": false,
+    "fields": {
+      "date": "۱۴۰۳/۰۲/۲۶",
+      "amount_numeric": "۴۴۹۴۷۸۴۰۹",
+      "amount_words": "چهارصد و چهل و نه میلیون و چهارصد و هفتاد و هشت هزار و چهارصد و نه ریال",
+      "account": "476-89-431473-2",
+      "payee": "فاطمه موسوی",
+      "cheque_no": "۳۹۷۵۶۹",
+      "bank": "بانک ملی"
+    }
+  },
+  {
+    "id": 30,
+    "file": "cheque_0030_degraded.png",
+    "degraded": true,
+    "fields": {
+      "date": "۱۴۰۱/۱۱/۱۶",
+      "amount_numeric": "۳۸۱۱۰۷۲۴۶",
+      "amount_words": "سیصد و هشتاد و یک میلیون و صد و هفت هزار و دویست و چهل و شش ریال",
+      "account": "842-78-399623-6",
+      "payee": "مریم رضایی",
+      "cheque_no": "۱۷۸۳۸۳",
+      "bank": "بانک ملت"
+    }
+  },
+  {
+    "id": 11,
+    "file": "cheque_0011_clean.png",
+    "degraded": false,
+    "fields": {
+      "date": "۱۴۰۱/۰۶/۱۳",
+      "amount_numeric": "۴۸۰۶۲۰۴۴۵۶",
+      "amount_words": "چهار میلیارد و هشتصد و شش میلیون و دویست و چهار هزار و چهارصد و پنجاه و شش ریال",
+      "account": "893-77-806361-2",
+      "payee": "رضا کریمی",
+      "cheque_no": "۵۴۶۳۶۰",
+      "bank": "بانک آینده"
+    }
+  },
+  {
+    "id": 31,
+    "file": "cheque_0031_degraded.png",
+    "degraded": true,
+    "fields": {
+      "date": "۱۴۰۱/۰۶/۱۳",
+      "amount_numeric": "۱۸۹۸۹۶۸۲۸۰",
+      "amount_words": "یک میلیارد و هشتصد و نود و هشت میلیون و نهصد و شصت و هشت هزار و دویست و هشتاد ریال",
+      "account": "144-70-315439-5",
+      "payee": "علی کریمی",
+      "cheque_no": "۴۰۱۲۴۵",
+      "bank": "بانک ملت"
+    }
+  },
+  {
+    "id": 12,
+    "file": "cheque_0012_clean.png",
+    "degraded": false,
+    "fields": {
+      "date": "۱۴۰۳/۰۲/۰۱",
+      "amount_numeric": "۷۹۲۳۷۸۹۸۴",
+      "amount_words": "هفتصد و نود و دو میلیون و سیصد و هفتاد و هشت هزار و نهصد و هشتاد و چهار ریال",
+      "account": "542-35-223773-1",
+      "payee": "سارا رضایی",
+      "cheque_no": "۷۴۲۸۰۸",
+      "bank": "بانک آینده"
+    }
+  },
+  {
+    "id": 32,
+    "file": "cheque_0032_degraded.png",
+    "degraded": true,
+    "fields": {
+      "date": "۱۴۰۳/۱۰/۱۵",
+      "amount_numeric": "۱۱۱۳۶۰۶۴۷",
+      "amount_words": "صد و یازده میلیون و سیصد و شصت هزار و ششصد و چهل و هفت ریال",
+      "account": "447-22-446079-9",
+      "payee": "حسین احمدی",
+      "cheque_no": "۹۱۱۸۴۶",
+      "bank": "بانک آینده"
+    }
+  },
+  {
+    "id": 13,
+    "file": "cheque_0013_clean.png",
+    "degraded": false,
+    "fields": {
+      "date": "۱۴۰۳/۱۰/۱۱",
+      "amount_numeric": "۲۹۹۶۱۱۲۸۷",
+      "amount_words": "دویست و نود و نه میلیون و ششصد و یازده هزار و دویست و هشتاد و هفت ریال",
+      "account": "337-37-887886-7",
+      "payee": "علی کریمی",
+      "cheque_no": "۷۹۲۶۲۷",
+      "bank": "بانک ملت"
+    }
+  },
+  {
+    "id": 33,
+    "file": "cheque_0033_degraded.png",
+    "degraded": true,
+    "fields": {
+      "date": "۱۴۰۰/۱۲/۲۷",
+      "amount_numeric": "۲۲۰۰۶۸۲۸۸",
+      "amount_words": "دویست و بیست میلیون و شصت و هشت هزار و دویست و هشتاد و هشت ریال",
+      "account": "253-35-412670-7",
+      "payee": "علی محمدی",
+      "cheque_no": "۱۴۳۷۶۴",
+      "bank": "بانک آینده"
+    }
+  },
+  {
+    "id": 14,
+    "file": "cheque_0014_clean.png",
+    "degraded": false,
+    "fields": {
+      "date": "۱۴۰۳/۰۸/۲۲",
+      "amount_numeric": "۱۷۹۳۳۸۱۳۱۰",
+      "amount_words": "یک میلیارد و هفتصد و نود و سه میلیون و سیصد و هشتاد و یک هزار و سیصد و ده ریال",
+      "account": "824-98-531566-2",
+      "payee": "مریم کریمی",
+      "cheque_no": "۵۹۹۲۲۱",
+      "bank": "بانک آینده"
+    }
+  },
+  {
+    "id": 34,
+    "file": "cheque_0034_degraded.png",
+    "degraded": true,
+    "fields": {
+      "date": "۱۴۰۰/۱۲/۱۸",
+      "amount_numeric": "۹۱۵۸۰۸۱",
+      "amount_words": "نه میلیون و صد و پنجاه و هشت هزار و هشتاد و یک ریال",
+      "account": "528-58-558366-9",
+      "payee": "زینب رضایی",
+      "cheque_no": "۸۶۵۵۵۱",
+      "bank": "بانک آینده"
+    }
+  },
+  {
+    "id": 15,
+    "file": "cheque_0015_clean.png",
+    "degraded": false,
+    "fields": {
+      "date": "۱۴۰۳/۰۹/۲۶",
+      "amount_numeric": "۴۲۸۴۲۸۱۱۳۹",
+      "amount_words": "چهار میلیارد و دویست و هشتاد و چهار میلیون و دویست و هشتاد و یک هزار و صد و سی و نه ریال",
+      "account": "254-90-732556-8",
+      "payee": "محمد موسوی",
+      "cheque_no": "۵۷۰۴۸۸",
+      "bank": "بانک ملت"
+    }
+  },
+  {
+    "id": 35,
+    "file": "cheque_0035_degraded.png",
+    "degraded": true,
+    "fields": {
+      "date": "۱۴۰۳/۰۱/۱۲",
+      "amount_numeric": "۲۵۵۳۸۸۷۰",
+      "amount_words": "بیست و پنج میلیون و پانصد و سی و هشت هزار و هشتصد و هفتاد ریال",
+      "account": "604-89-830784-8",
+      "payee": "سارا حسینی",
+      "cheque_no": "۲۸۸۳۹۴",
+      "bank": "بانک ملی"
+    }
+  },
+  {
+    "id": 16,
+    "file": "cheque_0016_clean.png",
+    "degraded": false,
+    "fields": {
+      "date": "۱۴۰۱/۰۱/۲۱",
+      "amount_numeric": "۴۱۵۳۲۰۴۳۹",
+      "amount_words": "چهارصد و پانزده میلیون و سیصد و بیست هزار و چهارصد و سی و نه ریال",
+      "account": "737-78-286260-4",
+      "payee": "مریم رضایی",
+      "cheque_no": "۱۱۴۳۲۴",
+      "bank": "بانک پارسیان"
+    }
+  },
+  {
+    "id": 36,
+    "file": "cheque_0036_degraded.png",
+    "degraded": true,
+    "fields": {
+      "date": "۱۴۰۰/۰۹/۱۴",
+      "amount_numeric": "۳۲۹۹۴۷۳۷۱",
+      "amount_words": "سیصد و بیست و نه میلیون و نهصد و چهل و هفت هزار و سیصد و هفتاد و یک ریال",
+      "account": "706-82-758466-8",
+      "payee": "علی حسینی",
+      "cheque_no": "۵۴۳۴۷۷",
+      "bank": "بانک ملی"
+    }
+  },
+  {
+    "id": 17,
+    "file": "cheque_0017_clean.png",
+    "degraded": false,
+    "fields": {
+      "date": "۱۴۰۱/۰۳/۰۸",
+      "amount_numeric": "۴۸۳۷۹۹۰۴۶",
+      "amount_words": "چهارصد و هشتاد و سه میلیون و هفتصد و نود و نه هزار و چهل و شش ریال",
+      "account": "784-15-564031-8",
+      "payee": "مریم نجفی",
+      "cheque_no": "۷۴۴۱۴۰",
+      "bank": "بانک ملت"
+    }
+  },
+  {
+    "id": 37,
+    "file": "cheque_0037_degraded.png",
+    "degraded": true,
+    "fields": {
+      "date": "۱۴۰۳/۰۳/۲۷",
+      "amount_numeric": "۳۱۰۲۴۸۵۸۸۱",
+      "amount_words": "سه میلیارد و صد و دو میلیون و چهارصد و هشتاد و پنج هزار و هشتصد و هشتاد و یک ریال",
+      "account": "364-14-149342-2",
+      "payee": "مریم محمدی",
+      "cheque_no": "۴۸۰۶۸۷",
+      "bank": "بانک ملی"
+    }
+  },
+  {
+    "id": 18,
+    "file": "cheque_0018_clean.png",
+    "degraded": false,
+    "fields": {
+      "date": "۱۴۰۲/۰۴/۰۳",
+      "amount_numeric": "۳۱۴۱۱۷۳۷۱۰",
+      "amount_words": "سه میلیارد و صد و چهل و یک میلیون و صد و هفتاد و سه هزار و هفتصد و ده ریال",
+      "account": "606-98-889811-1",
+      "payee": "علی نجفی",
+      "cheque_no": "۸۳۸۱۵۵",
+      "bank": "بانک صادرات"
+    }
+  },
+  {
+    "id": 38,
+    "file": "cheque_0038_degraded.png",
+    "degraded": true,
+    "fields": {
+      "date": "۱۴۰۰/۰۱/۱۴",
+      "amount_numeric": "۸۹۹۸۶۴۲۶۷",
+      "amount_words": "هشتصد و نود و نه میلیون و هشتصد و شصت و چهار هزار و دویست و شصت و هفت ریال",
+      "account": "883-77-964554-3",
+      "payee": "مریم احمدی",
+      "cheque_no": "۷۸۸۳۷۳",
+      "bank": "بانک ملی"
+    }
+  },
+  {
+    "id": 19,
+    "file": "cheque_0019_clean.png",
+    "degraded": false,
+    "fields": {
+      "date": "۱۴۰۰/۰۹/۰۱",
+      "amount_numeric": "۳۳۸۰۲۲۳۳۷۶",
+      "amount_words": "سه میلیارد و سیصد و هشتاد میلیون و دویست و بیست و سه هزار و سیصد و هفتاد و شش ریال",
+      "account": "686-39-126755-6",
+      "payee": "سارا کریمی",
+      "cheque_no": "۴۶۴۶۲۳",
+      "bank": "بانک ملی"
+    }
+  },
+  {
+    "id": 39,
+    "file": "cheque_0039_degraded.png",
+    "degraded": true,
+    "fields": {
+      "date": "۱۴۰۳/۰۱/۲۴",
+      "amount_numeric": "۲۳۲۸۲۱۳۲۵",
+      "amount_words": "دویست و سی و دو میلیون و هشتصد و بیست و یک هزار و سیصد و بیست و پنج ریال",
+      "account": "167-51-534286-9",
+      "payee": "مریم احمدی",
+      "cheque_no": "۳۰۷۹۴۵",
+      "bank": "بانک ملی"
+    }
+  }
+]
