@@ -13,7 +13,8 @@
 
 ## 📸 Demo
 
-![Persian Banking OCR Demo](demo.png)
+<img width="385" height="189" alt="image" src="https://github.com/user-attachments/assets/02fcca13-01c2-4cb4-9a8a-2db8f0e1be1f" />
+
 
 *Real cheque image processed by the pipeline — fields detected and highlighted automatically*
 
